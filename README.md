@@ -54,8 +54,6 @@ This project demonstrates the effectiveness of combining custom deep learning mo
 
 ## Future Work
 
-Integrate additional pre-trained models like EfficientNet for comparison.
-
 Explore multi-modal emotion detection by combining text and audio inputs.
 
 Enhance deployment scalability with cloud-based platforms.
